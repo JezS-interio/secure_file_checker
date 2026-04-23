@@ -1,0 +1,24 @@
+[
+  {
+    "fecha": "2026-04-23 15:45:56",
+    "archivo": "sospechas.zip",
+    "tipo": "ZIP",
+    "score": 75,
+    "riesgo": "ALTO",
+    "veredicto": "Bloquear",
+    "sha256": "1ebe3fbd84c77065231fab215b7caa07e2e40ae2ff4aab785a2102b9d2d503e0",
+    "origen_riesgo": "contenido interno del ZIP",
+    "recomendacion": "Riesgo elevado. No se recomienda descomprimir ni abrir el archivo. Revisión manual sugerida."
+  },
+  {
+    "fecha": "2026-04-23 15:46:56",
+    "archivo": "script.js",
+    "tipo": "JS",
+    "score": 40,
+    "riesgo": "MEDIO",
+    "veredicto": "Sospechoso",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "origen_riesgo": "archivo principal",
+    "recomendacion": "El archivo presenta indicadores sospechosos. Se recomienda revisión manual antes de abrirlo."
+  }
+]
